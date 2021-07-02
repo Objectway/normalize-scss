@@ -1,14 +1,14 @@
 {
   "name": "normalize-scss",
-  "version": "7.0.1",
+  "version": "8.0.0",
   "description": "This is the Sass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers. This port aims to use a light dusting of Sass to make Normalize even easier to integrate with your website.",
-  "homepage": "https://github.com/JohnAlbin/normalize-scss",
+  "homepage": "https://github.com/Objectway/normalize-scss",
   "bugs": {
-    "url": "https://github.com/JohnAlbin/normalize-scss/issues"
+    "url": "https://github.com/Objectway/normalize-scss/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/JohnAlbin/normalize-scss.git"
+    "url": "https://github.com/Objectway/normalize-scss"
   },
   "author": "John Albin Wilkins <virtually.johnalbin@gmail.com> (http://john.albin.net/)",
   "license": "(MIT OR GPL-2.0)",
